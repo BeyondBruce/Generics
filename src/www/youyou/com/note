@@ -1,3 +1,4 @@
 泛型方法：Generics
 泛型类：GenericsTest
 泛型接口：GenericsinterfaceDemo
+有界的类型方法：GenericsMethod
